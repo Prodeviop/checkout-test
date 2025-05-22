@@ -56,6 +56,14 @@ api_access = true
  name = "Main title"
  description = "Enter the main title"
 [[extensions.settings.fields]]
+ key = "enable_updevider"
+ type = "boolean"
+ name = "Enable Upper Devider"
+ [[extensions.settings.fields]]
+ key = "enable_downdevider"
+ type = "boolean"
+ name = "Enable Bottom Devider"
+[[extensions.settings.fields]]
  key = "upsell_variant"
  type = "variant_reference"
  name = "Upsell Variant"
