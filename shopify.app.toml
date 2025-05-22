@@ -3,7 +3,7 @@
 client_id = "adbfd0b6711e464671e0de1df416b7e3"
 name = "Checkout Blocks"
 handle = "checkout-blocks-43"
-application_url = "https://circus-screensavers-bring-creatures.trycloudflare.com"
+application_url = "https://himself-houston-madagascar-dispatched.trycloudflare.com"
 embedded = true
 
 [build]
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://circus-screensavers-bring-creatures.trycloudflare.com/auth/callback",
-  "https://circus-screensavers-bring-creatures.trycloudflare.com/auth/shopify/callback",
-  "https://circus-screensavers-bring-creatures.trycloudflare.com/api/auth/callback"
+  "https://himself-houston-madagascar-dispatched.trycloudflare.com/auth/callback",
+  "https://himself-houston-madagascar-dispatched.trycloudflare.com/auth/shopify/callback",
+  "https://himself-houston-madagascar-dispatched.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
